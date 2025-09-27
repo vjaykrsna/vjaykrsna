@@ -18,7 +18,7 @@
 
 ## Snapshot at a glance
 - 📦 Maintains **15 public repos** ranging from Linux automation to frontend experiments.
-- 🌟 Creator of [`gsconnect-mount-manager`](https://github.com/vjaykrsna/gsconnect-mount-manager) (8+⭐) helping GNOME & KDE Connect users fix mobile storage mounts.
+- 🌟 Creator of [`gsconnect-mount-manager`](https://github.com/vjaykrsna/gsconnect-mount-manager) and [`ragbot`](https://github.com/vjaykrsna/ragbot) helping communities with automation and AI experiments.
 - 🧰 Opinionated about developer experience—dotfiles, Termux setups, and CLI ergonomics.
 - 📚 Currently deep-diving into **AI/ML workflows** and scalable backend design.
 - 🤝 Open to collaborations, pair-building, or freelance contributions around dev tooling and automation.
@@ -27,7 +27,7 @@
 ## Spotlight projects
 | Project | Tech | Why it matters |
 | --- | --- | --- |
-| [`gsconnect-mount-manager`](https://github.com/vjaykrsna/gsconnect-mount-manager) | Shell, Bash | CLI & UI helpers that automatically remount Android storage for KDE Connect/GSConnect—trusted by the community with 8+ stars. |
+| [`gsconnect-mount-manager`](https://github.com/vjaykrsna/gsconnect-mount-manager) | Shell, Bash | CLI & UI helpers that automatically remount Android storage for KDE Connect/GSConnect. |
 | [`vjs-chef`](https://github.com/vjaykrsna/vjs-chef) | React, Vite, OpenAI APIs | Recipe assistant that turns pantry ingredients into meal ideas, showcasing UX polish and API integrations. |
 | [`dotfiles`](https://github.com/vjaykrsna/dotfiles) & [`myTermux`](https://github.com/vjaykrsna/myTermux) | Shell, Neovim, tmux | Opinionated environment configs that keep development consistent across Linux desktop & mobile terminals. |
 | [`ragbot`](https://github.com/vjaykrsna/ragbot) | Python, LangChain | Retrieval-augmented chatbot experiments exploring LLM tooling and prompt engineering. |
@@ -39,11 +39,14 @@
 **Data & ML:** Pandas, NumPy, scikit-learn (learning)  
 **Platforms & Tools:** Linux, Docker, Git, VS Code, GitHub Actions, PostgreSQL, MongoDB, Redis
 
+## Education
+- B.Tech in Information Technology from Oriental Institute of Science and Technology
+- Diploma in Plastic Mould Technology from CIPET
+
 ## Working on right now
 - Polishing `gsconnect-mount-manager` with better UX and packaging.
 - Iterating on personal automation (dotfiles, Termux) to stay productive across devices.
 - Prototyping ML-assisted copilots that plug into daily developer workflows.
-- Writing bite-sized notes on what I'm learning—soon to live on the portfolio.
 
 ## Activity & learning dashboards
 <div align="center">
