@@ -1,5 +1,5 @@
 <p align="center">
-	<strong>Linux-first developer building automation, open-source utilities, and thoughtful AI experiments.</strong><br/>
+	<strong>Linux-first developer building automation, open-source utilities, and thoughtful experiments in AI.</strong><br/>
 	Turning daily friction into shareable tools while levelling up in systems design & machine learning.
 </p>
 
@@ -12,13 +12,13 @@
 <p align="center">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/vjaykrsna?label=Followers&style=flat-square&color=14b8a6">
 	<img alt="GitHub stars" src="https://img.shields.io/github/stars/vjaykrsna?affiliations=OWNER&style=flat-square&color=f97316">
-	<img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-15-6366f1?style=flat-square">
+	<img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvjaykrsna&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=6366f1">
 	<img alt="Open source since 2020" src="https://img.shields.io/badge/Open%20Source%20since-2020-22c55e?style=flat-square">
 </p>
 
 ## Snapshot at a glance
-- 📦 Maintains **15 public repos** ranging from Linux automation to frontend experiments.
-- 🌟 Creator of [`gsconnect-mount-manager`](https://github.com/vjaykrsna/gsconnect-mount-manager) and [`ragbot`](https://github.com/vjaykrsna/ragbot) helping communities with automation and AI experiments.
+- 📦 Building practical projects across Linux automation, developer tooling, and AI.
+- 🌟 Creator of [`gsconnect-mount-manager`](https://github.com/vjaykrsna/gsconnect-mount-manager) and [`ragbot`](https://github.com/vjaykrsna/ragbot) helping communities with automation and practical AI tools.
 - 🧰 Opinionated about developer experience—dotfiles, Termux setups, and CLI ergonomics.
 - 📚 Currently deep-diving into **AI/ML workflows** and scalable backend design.
 - 🤝 Open to collaborations, pair-building, or freelance contributions around dev tooling and automation.
@@ -43,14 +43,9 @@
 - B.Tech in Information Technology from Oriental Institute of Science and Technology
 - Diploma in Plastic Mould Technology from CIPET
 
-## Working on right now
-- Polishing `gsconnect-mount-manager` with better UX and packaging.
-- Iterating on personal automation (dotfiles, Termux) to stay productive across devices.
-- Prototyping ML-assisted copilots that plug into daily developer workflows.
-
 ## Activity & learning dashboards
 <div align="center">
-	<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vjaykrsna&show_icons=true&theme=tokyonight&hide_border=true" />
+	<img height="165" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vjaykrsna&show_icons=true&theme=tokyonight&hide_border=true" />
 	<img height="165" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=vjaykrsna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
